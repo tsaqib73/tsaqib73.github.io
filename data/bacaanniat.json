@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Hadits ke 1 Menuntut Ilmu",
+    "arabic": "طَلَبُ الْعِلْمِ فَرِيْضَةٌ عَلَ كُلِّ مُسْلِمٍ",
+    "terjemahan": "Menuntut ilmu agama itu wajib bagi setiap muslim",
+    "riwayat": "Hadits Riwayat Ibnu majah No. 224"
+  },
+  {
+    "id": 2,
+    "name": "Hadits ke 2 Menuntut Ilmu",
+    "arabic": "مَنْ سَلَكَ طَرِيْقاً يَلْتَمِسُ فِيْهِ عِلْماً سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيْقًا إلَلاْ جَنَّهِ",
+    "terjemahan": "Siapa yang menempuh suatu jalan untuk menuntut ilmu Allah akan mudahkan baginya jalan menuju Surga",
+    "riwayat": "Hadits Riwayat Muslim No. 2699"
+  },
+  {
+    "id": 3,
+    "name": "Hadits ke 3 Menuntut Ilmu",
+    "arabic": "مَنْ يُرِدِاللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِى الدِّيْنِ",
+    "terjemahan": "Siapa yang Allah inginkan kebaikan baginya maka akan dipahamkan agamanya",
+    "riwayat": "Hadits Riwayat Al Bukhori No. 71, Muslim No. 1037"
+  },
+  {
+    "id": 4,
+    "name": "Hadits ke 4 Meminta - minta",
+    "arabic": "ِذَ اسَأَلتَ فَاسْأَلِ اللَّهِ وَإذَا إِسْتَعَنْتَ فَسْتَعِنْ بِاللَّهِ",
+    "terjemahan": "Jika kamu meminta, mintalah kepada Allah dan jika kamu minta tolong mintalah tolong juga kepada Allah",
+    "riwayat": "Hadits Riwayat At Tirmidzi No. 2516"
+  },
+  {
+    "id": 5,
+    "name": "Hadits ke 5 Tahuid itu penting",
+    "arabic": "ِمَنْ مَاتَ وَهُوَ يَعْلَمُ اَنَّهُ لاَإِلَهَ إلاَّ اللَّهُ دَخَلَ الْجَنَّةَ",
+    "terjemahan": "Siapa yang meninggal dunia dan dia mengetahui kalimat “Laa ilaaha illallah” dia pasti masuk surga",
+    "riwayat": "Hadits Riwayat Muslim No. 26"
+  },
+  {
+    "id": 6,
+    "name": "Hadits ke 6 Jangan berbuat syirik",
+    "arabic": "ِمَنْ مَاتَ وَهُوَ يَعْلَمُ اَنَّهُ لاَإِلَهَ إلاَّ اللَّهُ دَخَلَ الْجَنَّةَ",
+    "terjemahan": "Siapa yang meninggal  dunia dan tidak menyekutukan Allah dengan sesuatu apa maka ia masuk Surga",
+    "riwayat": "Hadits Riwayat Muslim No. 93"
+  },
+  {
+    "id": 7,
+    "name": "Hadits ke 7 Beribadah harus mencontoh Nabi",
+    "arabic": "ِمَنْ أَحْدَثَ فِي أَمْرِنَا هَذَا مَالَيْسَ مِنْهُ فَهُوَ رَدٌّ",
+    "terjemahan": "Barang siapa yang mengada-adakan sesuatu dalam urusan Agama kami (Islam) ini yang bukan dari kami maka dia tertolak",
+    "riwayat": "Hadits Riwayat Muslim No. 1718"
+  },
+  {
+    "id": 8,
+    "name": "Hadits ke 8 Wudhu itu penting",
+    "arabic": "ِلاَ تُقْبَلُ صَلاَةُ مَنْ أَحدَثَ حَتَّ يَتَوَضَّاءَ",
+    "terjemahan": "Tidak akan diterima sholatnya seorang yang beradats hingga dia berwudhu",
+    "riwayat": "Hadits Riwayat Bukhori No. 135 dan Muslim No. 225"
+  },
+  {
+    "id": 9,
+    "name": "Hadits ke 9 Bersuci bagian dari Iman",
+    "arabic": "ِاَلطُّهُوْرُ شطْرُ اْلإِيْمَانِ",
+    "terjemahan": "Bersuci bagian dari Keimanan",
+    "riwayat": "Hadits Riwayat Muslim No. 223"
+  },
+  {
+    "id": 10,
+    "name": "Hadits ke 10 Bersiwak itu sunnah",
+    "arabic": "ِالَسِّوَاكُ مَطْهَرَةُ لِلْفَمِ مَرْضَاةُ",
+    "terjemahan": "Siwak itu pembersih mulut dan merupakan penyebab keridhoan Allah",
+    "riwayat": "Hadits Riwayat An Nasai No. 05"
+  },
+  {
+    "id": 11,
+    "name": "Hadits ke 11 Sholat itu Penting",
+    "arabic": "ِإنَّ اَوَّلَ مَايُحَاسَبُ بِهٍ العَبْدُ يَوْمَ القِيَامَةِ مِنْ عَمَلِهِ صَلاَتُهُ",
+    "terjemahan": "Sesungguhnya amalan hamba yang pertama kali dihisab pada hari kiamat adalah sholatnya",
+    "riwayat": "Hadits Riwayat At Tirmidzi No. 4137"
+  },
+  {
+    "id": 12,
+    "name": "Hadits ke 12 Keutamaan menjaga sholat Ashar dan Subuh",
+    "arabic": "ِلَنْ يَلِجَ النَّارَ أَحَدُ صَّل قَبْلَ طُلُوعِ الْشَّمْسِ وَقَبْلَ غُرُوبِهَا",
+    "terjemahan": "Tidak akan masuk neraka  seseorang yang melakukan (menjaga) sholat sebelum terbitnya matahari (subuh) dan sebelum terbenamnya matahari (ashar)",
+    "riwayat": "Hadits Riwayat Muslim No. 674"
+  },
+  {
+    "id": 13,
+    "name": "Hadits ke 13 Keberkahan diwaktu pagi hari",
+    "arabic": "قَالَ صَلَّ اللَّه عَلَيْهِ وَسَلَّمَ اَللَّهُمَّ بَارِكْ لِأُ مَّتِيْ فِى بُكُوْرِهَا",
+    "terjemahan": "Rasul shallallahu ‘alahi wa salam berdo’a Ya Allah berkahilah untuk umatku diwaktu paginya",
+    "riwayat": "Hadits Riwayat Ahmad No. 13207"
+  },
+  {
+    "id": 14,
+    "name": "Hadits ke 14 Sholat tepat waktu",
+    "arabic": "صَلِّ الصَّلاَةَ لِوَقْتِهَا",
+    "terjemahan": "Kerjakanlah Shalat tepat pada waktunya",
+    "riwayat": "Hadits Riwayat Muslim No. 648"
+  }
+]
